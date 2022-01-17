@@ -1,0 +1,4 @@
+type SetStoreIndex @entity {
+    id: ID!,
+	timestamp: BigInt
+}
